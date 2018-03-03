@@ -2,3 +2,4 @@
 rss feed のテスト
 
 - hoge
+- fuga
