@@ -5,3 +5,4 @@ rss feed のテスト
 - fuga
 - hoooge
 - gagaga
+- hi
